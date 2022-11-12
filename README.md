@@ -1,3 +1,3 @@
 <p align="center">
-# Web Phishing Detection
+<h1>Web Phishing Detection</h1>
 </p>
