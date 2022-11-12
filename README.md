@@ -1,1 +1,1 @@
-<center># Web Phishing Detection</center>
+# Web Phishing Detection
