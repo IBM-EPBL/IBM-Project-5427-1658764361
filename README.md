@@ -15,15 +15,8 @@ Phishers can use public sources of information to gather background information 
 
 ## How to prevent phishing?
         1. Know what a phishing scam looks like
-        2. Don’t click on that link
-        3. Get free anti-phishing add-ons
-        4. Don’t give your information to an unsecured site
-        5. Rotate passwords regularly
-        6. Don’t ignore those updates
-        7. Install firewalls
-        8. Don’t be tempted by those pop-ups
-        9. Don’t give out important information unless you must
-        10. Have a Data Security Platform to spot signs of an attack
+        2. Anti-phishing softwares
+        3. Changing passwords rotationally
 
 
-
+![phishing](https://user-images.githubusercontent.com/114014205/201498498-e42c34c9-18ef-48c8-a227-d9c539463ad0.png)
