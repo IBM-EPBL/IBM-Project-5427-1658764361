@@ -1,9 +1,12 @@
 <h1 align="center">Web Phishing Detection</h1>
 
-![phishing2](https://user-images.githubusercontent.com/114014205/201516934-2d1cf0c1-c39c-4c13-8f33-041967c3372f.png)
+![p](https://user-images.githubusercontent.com/114014205/201517286-55a57d15-9434-4f2c-9bb1-335e2cf9f9f1.jpg)
 
 ## What is phishing?
 Phishing is a type of social engineering attack often used to procure or steal user data, including login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted entity, dupes a victim into opening an email, instant message, or text message. The recipient is then tricked into clicking a malicious link, which can lead to the installation of malware, the freezing of the system as part of a ransomware attack or the revealing of sensitive information.
+
+Phishing attacks are the most common cyber threat to many businesses.
+This form of cyber attack can be remarkably unsophisticated. Yet, the disruption caused can be huge.
 
 ## How phishing works?
 Phishing attacks typically rely on social networking techniques applied to email or other electronic communication methods. Some methods include direct messages sent over social networks and SMS text messages.
