@@ -24,6 +24,11 @@ Phishers can use public sources of information to gather background information 
         3. Changing passwords rotationally
         4. Use firewalls
 
+## Team members:
+        Aruna Rajeswari. K. K
+        Anu Sowmiyaa. A
+        P. Daphne Patricia
+        A. Shruthi
 ## Tasks:
 ### Assignment
         • Assignment 1 
