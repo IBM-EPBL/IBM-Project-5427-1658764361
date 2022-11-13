@@ -24,6 +24,33 @@ Phishers can use public sources of information to gather background information 
         3. Changing passwords rotationally
         4. Use firewalls
 
-
-
-
+## Tasks:
+### Assignment
+        • Assignment 1 
+        • Assignment 2 
+        • Assignment 3 
+        • Assignment 4 
+### Project Design & Planning
+##### Ideation Phase:
+        • Literature Survey
+        • Empathy Map
+        • Problem Statement
+        • Brainstorm and Ideation
+##### Project Design Phase-I:
+        • Proposed Solution
+        • Problem Solution Fit
+        • Solution Architecture
+#####  Project Design Phase-II:
+        • Solution Requirement
+        • Customer Journey Map
+        • Data Flow Diagrams and User Stories
+        • Technology Stack
+#####  Project Planning:
+        • Project_Planning Sprint_Schedules
+        • Milestones & tasks
+###  Project Development Phase
+        • Sprint 1
+        • Sprint 2
+        • Sprint 3
+        • Sprint 4
+###  Final Deliverables
