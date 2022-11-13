@@ -1,5 +1,6 @@
 <h1 align="center">Web Phishing Detection</h1>
-![phishing](https://user-images.githubusercontent.com/114014205/201500970-371c0f92-2d45-4daa-bb93-7dea3f58dc6c.png)
+
+ ![phishing1](https://user-images.githubusercontent.com/114014205/201500991-b3aa8ec3-94b4-4eec-ac13-136b155e22c5.png)
 
 ## What is phishing?
 Phishing is a type of social engineering attack often used to procure or steal user data, including login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted entity, dupes a victim into opening an email, instant message, or text message. The recipient is then tricked into clicking a malicious link, which can lead to the installation of malware, the freezing of the system as part of a ransomware attack or the revealing of sensitive information.
