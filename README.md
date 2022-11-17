@@ -1,6 +1,8 @@
 <h1 align="center">Web Phishing Detection</h1>
 
-![p](https://user-images.githubusercontent.com/114014205/201517286-55a57d15-9434-4f2c-9bb1-335e2cf9f9f1.jpg)
+<p align="center">
+    <img width="400" src="https://user-images.githubusercontent.com/114014205/202440963-a4790cc0-75bb-4344-90c8-b78329e47d64.jpg">
+</p>
 
 ## What is phishing?
 Phishing is a type of social engineering attack often used to procure or steal user data, including login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted entity, dupes a victim into opening an email, instant message, or text message. The recipient is then tricked into clicking a malicious link, which can lead to the installation of malware, the freezing of the system as part of a ransomware attack or the revealing of sensitive information.
@@ -26,10 +28,10 @@ Phishers can use public sources of information to gather background information 
 ## Team ID:
         PNT2022TMID26146
 ## Team members:
-        1.Aruna Rajeswari.K.K
-        2.Anu Sowmiyaa. A
-        3.Daphne Patricia. P
-        4.Shruthi. A
+        Aruna Rajeswari.K.K
+        Anu Sowmiyaa. A
+        Daphne Patricia. P
+        Shruthi. A
 ## Tasks:
 ### Assignment
         • Assignment 1 
@@ -60,4 +62,3 @@ Phishers can use public sources of information to gather background information 
         • Sprint 3
         • Sprint 4
 ###  Final Deliverables
-        
