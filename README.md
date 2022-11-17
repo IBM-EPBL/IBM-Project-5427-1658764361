@@ -25,12 +25,11 @@ Phishers can use public sources of information to gather background information 
         4. Use firewalls
 ## Team ID:
         PNT2022TMID26146
-## Team leader:
-        Aruna Rajeswari. K. K
 ## Team members:
-        Anu Sowmiyaa. A
-        Daphne Patricia. P
-        Shruthi. A
+        1.Aruna Rajeswari.K.K
+        2.Anu Sowmiyaa. A
+        3.Daphne Patricia. P
+        4.Shruthi. A
 ## Tasks:
 ### Assignment
         • Assignment 1 
@@ -61,3 +60,4 @@ Phishers can use public sources of information to gather background information 
         • Sprint 3
         • Sprint 4
 ###  Final Deliverables
+        code
